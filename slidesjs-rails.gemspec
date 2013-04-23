@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Slidesjs::Rails::VERSION
   spec.authors       = ["Daniel Libanori"]
   spec.email         = ["daniellibanori@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = "Slidesjs assets for Rails 3.1"
+  spec.summary       = "Slidesjs assets for Rails 3.1"
+  spec.homepage      = "https://github.com/dlibanori/slidesjs-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
