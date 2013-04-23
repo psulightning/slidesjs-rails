@@ -1,7 +1,7 @@
 require "slidesjs/rails/version"
+require "slidesjs/rails/engine"
 
 module Slidesjs
   module Rails
-    # Your code goes here...
   end
 end
