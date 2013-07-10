@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In `app/assets/javascripts/application.js`, add the following to the include directives after the directives for jQuery.
+
+    //= require jquery.slides
 
 ## Contributing
 
